@@ -365,6 +365,6 @@ def statistics():
             break
         print('Enter one of the valid options provided.')
 
-
+ 
 if __name__ == "__main__":
 	statistics()
