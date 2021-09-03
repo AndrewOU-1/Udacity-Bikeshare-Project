@@ -44,7 +44,7 @@ def get_raw_city_data():
     raw_city_data.columns = [x.strip().replace(' ', '_') for x in raw_city_data.columns]
     city_file = get_city.lower()
     return raw_city_data, city_file
-
+ 
 def filter_time_period(raw_city_data):
     '''Asks the user for a time period and returns the filtered data.
     Args:
