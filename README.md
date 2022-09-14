@@ -4,7 +4,7 @@
 9/3/2021
 ### Project Title
 <h2>Udacity Data Science Bikeshare Project</h2>
-### Description
+Description
 This program takes user input for a provided city, a specific time option (day/month), and an option to view the raw data if the user pleases. The user is able to view data on the most popular days, or data such as most common stations.  
 
 ### Files used
