@@ -11,6 +11,3 @@ This program takes user input for a provided city, a specific time option (day/m
 bikeshare.py, chicago.csv, new_york_city.csv and washington.csv
 ### Credits
 Sources including github, stackoverflow, and w3schools were utilized to gain prespective on how to tackle this project. Specific functions from w3schools and stackoverflow were particularly helpful in understanding python3 better.
-
-Added line to README.md
-Hello 
